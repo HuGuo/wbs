@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wbs">
+</Property><Property Name="Solution File" Value="F:\project\wbs\wbs.sln">
+</Property><Property Name="User Options File" Value="F:\project\wbs\wbs.suo">
+</Property><Property Name="Date" Value="2011年9月30日">
+</Property><Property Name="Time" Value="0:16">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="wbs.sln" Description="File successfully backed up as F:\project\wbs\Backup\wbs.sln">
+</Event><Event ErrorLevel="0" Project="" Source="wbs.suo" Description="File successfully backed up as F:\project\wbs\Backup\wbs.suo">
+</Event><Event ErrorLevel="4" Project="wbswinform" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbswinform.csproj" Description="Project file successfully backed up as F:\project\wbs\Backup\wbswinform\wbswinform.csproj">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Detail.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Detail.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Detail.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Detail.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Form1.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Form1.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Form1.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Program.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Program.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\search.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\search.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\search.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\search.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbsDataSet.Designer.cs" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\wbsDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\App.config" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\App.config">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Properties\Settings.settings" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbsDataSet.xsc" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\wbsDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbsDataSet.xsd" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\wbsDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbsDataSet.xss" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\wbsDataSet.xss">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbs.mdb" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\wbs.mdb">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Detail.resx" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Detail.resx">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Form1.resx" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Form1.resx">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\Properties\Resources.resx" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\search.resx" Description="File successfully backed up as F:\project\wbs\Backup\wbswinform\search.resx">
+</Event><Event ErrorLevel="1" Project="wbswinform" Source="wbswinform\wbswinform.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbswinform.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="wbswinform" Source="wbswinform\wbswinform.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project file successfully backed up as F:\project\wbs\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DALUser.cs" Description="File successfully backed up as F:\project\wbs\Backup\DAL\DALUser.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\project\wbs\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="DAL" Source="DAL\DAL.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Project file successfully backed up as F:\project\wbs\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLLUser.cs" Description="File successfully backed up as F:\project\wbs\Backup\BLL\BLLUser.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\project\wbs\Backup\BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="BLL" Source="BLL\BLL.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Project file successfully backed up as F:\project\wbs\Backup\Entity\Entity.csproj">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Class1.cs" Description="File successfully backed up as F:\project\wbs\Backup\Entity\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Degree.cs" Description="File successfully backed up as F:\project\wbs\Backup\Entity\Degree.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Price.cs" Description="File successfully backed up as F:\project\wbs\Backup\Entity\Price.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\project\wbs\Backup\Entity\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\User.cs" Description="File successfully backed up as F:\project\wbs\Backup\Entity\User.cs">
+</Event><Event ErrorLevel="1" Project="Entity" Source="Entity\Entity.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Entity" Source="Entity\Entity.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wbs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="wbs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wbswinform" Source="wbswinform\wbswinform.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
